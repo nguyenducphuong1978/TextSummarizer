@@ -10,10 +10,10 @@ Firstly the text input (full paper text and abstract text) need to be converted 
 # Acknowledgement
 This project would not be completed with the tutorial/data/work from sites listed below. My big thanks to the authors.
 
-    [Pix2Pix: Image to image translation using conditional GAN':] (https://www.tensorflow.org/alpha/tutorials/generative/pix2pix)
+[Pix2Pix: Image to image translation using conditional GAN':] (https://www.tensorflow.org/alpha/tutorials/generative/pix2pix)
 
-    CORE Dataset: Millions of research output text (full text and abstract) https://core.ac.uk/services/dataset/
+[CORE Dataset: Millions of research output text (full text and abstract)] (https://core.ac.uk/services/dataset/)
 
-    GLOVE: Global Vectors for Word Representation https://nlp.stanford.edu/projects/glove/
+[GLOVE: Global Vectors for Word Representation] (https://nlp.stanford.edu/projects/glove/)
 
-    GloVe-as-a-TensorFlow-Embedding-Layer https://github.com/guillaume-chevalier/GloVe-as-a-TensorFlow-Embedding-Layer
+[GloVe-as-a-TensorFlow-Embedding-Layer]  (https://github.com/guillaume-chevalier/GloVe-as-a-TensorFlow-Embedding-Layer)
